@@ -44,6 +44,7 @@ void loop()
 }
 
 ```
+<img  Img/blinker.png > Led Parpadeante </a>
 
 #### Ejercicio n°3 :Control Pulsador
 ```js
