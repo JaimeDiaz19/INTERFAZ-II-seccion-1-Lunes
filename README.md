@@ -142,7 +142,7 @@ void loop() {
 
 <img src="Img/semaforo.png" > Semáforo </a>
 
-
+---- Foto circuito Físico Semáforo-----
 
 #### Pulsador Arduino + Processing
 
