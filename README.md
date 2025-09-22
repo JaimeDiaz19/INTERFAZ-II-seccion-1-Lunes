@@ -457,3 +457,4 @@ void playTrack(int index) {
 
 }
 ```
+< IMAGEN DEL CIRCUITO EN TINKERCAD Y EN FISICO -----
